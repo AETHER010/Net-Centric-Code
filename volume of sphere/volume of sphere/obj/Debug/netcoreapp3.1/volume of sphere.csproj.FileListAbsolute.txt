@@ -1,0 +1,12 @@
+D:\NET centric code\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.exe
+D:\NET centric code\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.deps.json
+D:\NET centric code\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.runtimeconfig.json
+D:\NET centric code\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.runtimeconfig.dev.json
+D:\NET centric code\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.dll
+D:\NET centric code\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.pdb
+D:\NET centric code\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.AssemblyInfoInputs.cache
+D:\NET centric code\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.AssemblyInfo.cs
+D:\NET centric code\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.csproj.CoreCompileInputs.cache
+D:\NET centric code\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.dll
+D:\NET centric code\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.pdb
+D:\NET centric code\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.genruntimeconfig.cache
