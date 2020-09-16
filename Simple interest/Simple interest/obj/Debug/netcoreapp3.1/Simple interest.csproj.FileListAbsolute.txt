@@ -1,0 +1,13 @@
+D:\NET centric code\Simple interest\Simple interest\obj\Debug\netcoreapp3.1\Simple interest.csprojAssemblyReference.cache
+D:\NET centric code\Simple interest\Simple interest\obj\Debug\netcoreapp3.1\Simple interest.AssemblyInfoInputs.cache
+D:\NET centric code\Simple interest\Simple interest\obj\Debug\netcoreapp3.1\Simple interest.AssemblyInfo.cs
+D:\NET centric code\Simple interest\Simple interest\obj\Debug\netcoreapp3.1\Simple interest.csproj.CoreCompileInputs.cache
+D:\NET centric code\Simple interest\Simple interest\bin\Debug\netcoreapp3.1\Simple interest.exe
+D:\NET centric code\Simple interest\Simple interest\bin\Debug\netcoreapp3.1\Simple interest.deps.json
+D:\NET centric code\Simple interest\Simple interest\bin\Debug\netcoreapp3.1\Simple interest.runtimeconfig.json
+D:\NET centric code\Simple interest\Simple interest\bin\Debug\netcoreapp3.1\Simple interest.runtimeconfig.dev.json
+D:\NET centric code\Simple interest\Simple interest\bin\Debug\netcoreapp3.1\Simple interest.dll
+D:\NET centric code\Simple interest\Simple interest\bin\Debug\netcoreapp3.1\Simple interest.pdb
+D:\NET centric code\Simple interest\Simple interest\obj\Debug\netcoreapp3.1\Simple interest.dll
+D:\NET centric code\Simple interest\Simple interest\obj\Debug\netcoreapp3.1\Simple interest.pdb
+D:\NET centric code\Simple interest\Simple interest\obj\Debug\netcoreapp3.1\Simple interest.genruntimeconfig.cache

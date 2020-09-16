@@ -1,0 +1,12 @@
+D:\NET centric code\Gravitational force\Gravitational force\bin\Debug\netcoreapp3.1\Gravitational force.exe
+D:\NET centric code\Gravitational force\Gravitational force\bin\Debug\netcoreapp3.1\Gravitational force.deps.json
+D:\NET centric code\Gravitational force\Gravitational force\bin\Debug\netcoreapp3.1\Gravitational force.runtimeconfig.json
+D:\NET centric code\Gravitational force\Gravitational force\bin\Debug\netcoreapp3.1\Gravitational force.runtimeconfig.dev.json
+D:\NET centric code\Gravitational force\Gravitational force\bin\Debug\netcoreapp3.1\Gravitational force.dll
+D:\NET centric code\Gravitational force\Gravitational force\bin\Debug\netcoreapp3.1\Gravitational force.pdb
+D:\NET centric code\Gravitational force\Gravitational force\obj\Debug\netcoreapp3.1\Gravitational force.AssemblyInfoInputs.cache
+D:\NET centric code\Gravitational force\Gravitational force\obj\Debug\netcoreapp3.1\Gravitational force.AssemblyInfo.cs
+D:\NET centric code\Gravitational force\Gravitational force\obj\Debug\netcoreapp3.1\Gravitational force.csproj.CoreCompileInputs.cache
+D:\NET centric code\Gravitational force\Gravitational force\obj\Debug\netcoreapp3.1\Gravitational force.dll
+D:\NET centric code\Gravitational force\Gravitational force\obj\Debug\netcoreapp3.1\Gravitational force.pdb
+D:\NET centric code\Gravitational force\Gravitational force\obj\Debug\netcoreapp3.1\Gravitational force.genruntimeconfig.cache

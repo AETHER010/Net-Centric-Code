@@ -1,0 +1,12 @@
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\bin\Debug\netcoreapp3.1\Mass-energy equivalence.exe
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\bin\Debug\netcoreapp3.1\Mass-energy equivalence.deps.json
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\bin\Debug\netcoreapp3.1\Mass-energy equivalence.runtimeconfig.json
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\bin\Debug\netcoreapp3.1\Mass-energy equivalence.runtimeconfig.dev.json
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\bin\Debug\netcoreapp3.1\Mass-energy equivalence.dll
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\bin\Debug\netcoreapp3.1\Mass-energy equivalence.pdb
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\obj\Debug\netcoreapp3.1\Mass-energy equivalence.AssemblyInfoInputs.cache
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\obj\Debug\netcoreapp3.1\Mass-energy equivalence.AssemblyInfo.cs
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\obj\Debug\netcoreapp3.1\Mass-energy equivalence.csproj.CoreCompileInputs.cache
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\obj\Debug\netcoreapp3.1\Mass-energy equivalence.dll
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\obj\Debug\netcoreapp3.1\Mass-energy equivalence.pdb
+D:\NET centric code\Mass-energy equivalence\Mass-energy equivalence\obj\Debug\netcoreapp3.1\Mass-energy equivalence.genruntimeconfig.cache

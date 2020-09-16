@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravitational force", "Gravitational force\Gravitational force.csproj", "{DA6B504A-9796-4492-9E5B-17560D3FB18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6B504A-9796-4492-9E5B-17560D3FB18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6B504A-9796-4492-9E5B-17560D3FB18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6B504A-9796-4492-9E5B-17560D3FB18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6B504A-9796-4492-9E5B-17560D3FB18A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F86A9548-7644-4F55-AAD2-DC5F8C947E1F}
+	EndGlobalSection
+EndGlobal
