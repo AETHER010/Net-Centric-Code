@@ -1,0 +1,12 @@
+D:\NET centric code\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.exe
+D:\NET centric code\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.deps.json
+D:\NET centric code\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.runtimeconfig.json
+D:\NET centric code\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.runtimeconfig.dev.json
+D:\NET centric code\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.dll
+D:\NET centric code\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.pdb
+D:\NET centric code\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.AssemblyInfoInputs.cache
+D:\NET centric code\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.AssemblyInfo.cs
+D:\NET centric code\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.csproj.CoreCompileInputs.cache
+D:\NET centric code\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.dll
+D:\NET centric code\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.pdb
+D:\NET centric code\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.genruntimeconfig.cache

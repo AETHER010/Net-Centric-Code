@@ -1,0 +1,13 @@
+D:\NET centric code\Compound interest\Compound interest\bin\Debug\netcoreapp3.1\Compound interest.exe
+D:\NET centric code\Compound interest\Compound interest\bin\Debug\netcoreapp3.1\Compound interest.deps.json
+D:\NET centric code\Compound interest\Compound interest\bin\Debug\netcoreapp3.1\Compound interest.runtimeconfig.json
+D:\NET centric code\Compound interest\Compound interest\bin\Debug\netcoreapp3.1\Compound interest.runtimeconfig.dev.json
+D:\NET centric code\Compound interest\Compound interest\bin\Debug\netcoreapp3.1\Compound interest.dll
+D:\NET centric code\Compound interest\Compound interest\bin\Debug\netcoreapp3.1\Compound interest.pdb
+D:\NET centric code\Compound interest\Compound interest\obj\Debug\netcoreapp3.1\Compound interest.csprojAssemblyReference.cache
+D:\NET centric code\Compound interest\Compound interest\obj\Debug\netcoreapp3.1\Compound interest.AssemblyInfoInputs.cache
+D:\NET centric code\Compound interest\Compound interest\obj\Debug\netcoreapp3.1\Compound interest.AssemblyInfo.cs
+D:\NET centric code\Compound interest\Compound interest\obj\Debug\netcoreapp3.1\Compound interest.csproj.CoreCompileInputs.cache
+D:\NET centric code\Compound interest\Compound interest\obj\Debug\netcoreapp3.1\Compound interest.dll
+D:\NET centric code\Compound interest\Compound interest\obj\Debug\netcoreapp3.1\Compound interest.pdb
+D:\NET centric code\Compound interest\Compound interest\obj\Debug\netcoreapp3.1\Compound interest.genruntimeconfig.cache

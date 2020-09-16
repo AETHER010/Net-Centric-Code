@@ -1,0 +1,12 @@
+D:\NET centric code\Bill split value per person\Bill split value per person\obj\Debug\netcoreapp3.1\Bill split value per person.AssemblyInfoInputs.cache
+D:\NET centric code\Bill split value per person\Bill split value per person\obj\Debug\netcoreapp3.1\Bill split value per person.AssemblyInfo.cs
+D:\NET centric code\Bill split value per person\Bill split value per person\obj\Debug\netcoreapp3.1\Bill split value per person.csproj.CoreCompileInputs.cache
+D:\NET centric code\Bill split value per person\Bill split value per person\bin\Debug\netcoreapp3.1\Bill split value per person.exe
+D:\NET centric code\Bill split value per person\Bill split value per person\bin\Debug\netcoreapp3.1\Bill split value per person.deps.json
+D:\NET centric code\Bill split value per person\Bill split value per person\bin\Debug\netcoreapp3.1\Bill split value per person.runtimeconfig.json
+D:\NET centric code\Bill split value per person\Bill split value per person\bin\Debug\netcoreapp3.1\Bill split value per person.runtimeconfig.dev.json
+D:\NET centric code\Bill split value per person\Bill split value per person\bin\Debug\netcoreapp3.1\Bill split value per person.dll
+D:\NET centric code\Bill split value per person\Bill split value per person\bin\Debug\netcoreapp3.1\Bill split value per person.pdb
+D:\NET centric code\Bill split value per person\Bill split value per person\obj\Debug\netcoreapp3.1\Bill split value per person.dll
+D:\NET centric code\Bill split value per person\Bill split value per person\obj\Debug\netcoreapp3.1\Bill split value per person.pdb
+D:\NET centric code\Bill split value per person\Bill split value per person\obj\Debug\netcoreapp3.1\Bill split value per person.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\NET centric code\Area_of_Circle\Area_of_Circle\bin\Debug\netcoreapp3.1\Area_of_Circle.exe
+D:\NET centric code\Area_of_Circle\Area_of_Circle\bin\Debug\netcoreapp3.1\Area_of_Circle.deps.json
+D:\NET centric code\Area_of_Circle\Area_of_Circle\bin\Debug\netcoreapp3.1\Area_of_Circle.runtimeconfig.json
+D:\NET centric code\Area_of_Circle\Area_of_Circle\bin\Debug\netcoreapp3.1\Area_of_Circle.runtimeconfig.dev.json
+D:\NET centric code\Area_of_Circle\Area_of_Circle\bin\Debug\netcoreapp3.1\Area_of_Circle.dll
+D:\NET centric code\Area_of_Circle\Area_of_Circle\bin\Debug\netcoreapp3.1\Area_of_Circle.pdb
+D:\NET centric code\Area_of_Circle\Area_of_Circle\obj\Debug\netcoreapp3.1\Area_of_Circle.AssemblyInfoInputs.cache
+D:\NET centric code\Area_of_Circle\Area_of_Circle\obj\Debug\netcoreapp3.1\Area_of_Circle.AssemblyInfo.cs
+D:\NET centric code\Area_of_Circle\Area_of_Circle\obj\Debug\netcoreapp3.1\Area_of_Circle.csproj.CoreCompileInputs.cache
+D:\NET centric code\Area_of_Circle\Area_of_Circle\obj\Debug\netcoreapp3.1\Area_of_Circle.dll
+D:\NET centric code\Area_of_Circle\Area_of_Circle\obj\Debug\netcoreapp3.1\Area_of_Circle.pdb
+D:\NET centric code\Area_of_Circle\Area_of_Circle\obj\Debug\netcoreapp3.1\Area_of_Circle.genruntimeconfig.cache
