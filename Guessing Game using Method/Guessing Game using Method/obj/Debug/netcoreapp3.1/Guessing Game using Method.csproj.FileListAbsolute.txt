@@ -1,0 +1,12 @@
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\bin\Debug\netcoreapp3.1\Guessing Game using Method.exe
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\bin\Debug\netcoreapp3.1\Guessing Game using Method.deps.json
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\bin\Debug\netcoreapp3.1\Guessing Game using Method.runtimeconfig.json
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\bin\Debug\netcoreapp3.1\Guessing Game using Method.runtimeconfig.dev.json
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\bin\Debug\netcoreapp3.1\Guessing Game using Method.dll
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\bin\Debug\netcoreapp3.1\Guessing Game using Method.pdb
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\obj\Debug\netcoreapp3.1\Guessing Game using Method.AssemblyInfoInputs.cache
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\obj\Debug\netcoreapp3.1\Guessing Game using Method.AssemblyInfo.cs
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\obj\Debug\netcoreapp3.1\Guessing Game using Method.csproj.CoreCompileInputs.cache
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\obj\Debug\netcoreapp3.1\Guessing Game using Method.dll
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\obj\Debug\netcoreapp3.1\Guessing Game using Method.pdb
+D:\NET centric code\Guessing Game using Method\Guessing Game using Method\obj\Debug\netcoreapp3.1\Guessing Game using Method.genruntimeconfig.cache
