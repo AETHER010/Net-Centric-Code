@@ -1,0 +1,13 @@
+D:\NET centric code\Random Number Game\Random Number Game\bin\Debug\netcoreapp3.1\Random Number Game.exe
+D:\NET centric code\Random Number Game\Random Number Game\bin\Debug\netcoreapp3.1\Random Number Game.deps.json
+D:\NET centric code\Random Number Game\Random Number Game\bin\Debug\netcoreapp3.1\Random Number Game.runtimeconfig.json
+D:\NET centric code\Random Number Game\Random Number Game\bin\Debug\netcoreapp3.1\Random Number Game.runtimeconfig.dev.json
+D:\NET centric code\Random Number Game\Random Number Game\bin\Debug\netcoreapp3.1\Random Number Game.dll
+D:\NET centric code\Random Number Game\Random Number Game\bin\Debug\netcoreapp3.1\Random Number Game.pdb
+D:\NET centric code\Random Number Game\Random Number Game\obj\Debug\netcoreapp3.1\Random Number Game.csprojAssemblyReference.cache
+D:\NET centric code\Random Number Game\Random Number Game\obj\Debug\netcoreapp3.1\Random Number Game.AssemblyInfoInputs.cache
+D:\NET centric code\Random Number Game\Random Number Game\obj\Debug\netcoreapp3.1\Random Number Game.AssemblyInfo.cs
+D:\NET centric code\Random Number Game\Random Number Game\obj\Debug\netcoreapp3.1\Random Number Game.csproj.CoreCompileInputs.cache
+D:\NET centric code\Random Number Game\Random Number Game\obj\Debug\netcoreapp3.1\Random Number Game.dll
+D:\NET centric code\Random Number Game\Random Number Game\obj\Debug\netcoreapp3.1\Random Number Game.pdb
+D:\NET centric code\Random Number Game\Random Number Game\obj\Debug\netcoreapp3.1\Random Number Game.genruntimeconfig.cache
