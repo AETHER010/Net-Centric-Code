@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mean and Median/1.0.0": {
+        "runtime": {
+          "Mean and Median.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mean and Median/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

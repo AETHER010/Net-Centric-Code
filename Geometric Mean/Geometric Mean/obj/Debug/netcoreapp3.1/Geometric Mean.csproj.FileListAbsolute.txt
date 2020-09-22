@@ -1,0 +1,13 @@
+D:\NET centric code\Geometric Mean\Geometric Mean\bin\Debug\netcoreapp3.1\Geometric Mean.exe
+D:\NET centric code\Geometric Mean\Geometric Mean\bin\Debug\netcoreapp3.1\Geometric Mean.deps.json
+D:\NET centric code\Geometric Mean\Geometric Mean\bin\Debug\netcoreapp3.1\Geometric Mean.runtimeconfig.json
+D:\NET centric code\Geometric Mean\Geometric Mean\bin\Debug\netcoreapp3.1\Geometric Mean.runtimeconfig.dev.json
+D:\NET centric code\Geometric Mean\Geometric Mean\bin\Debug\netcoreapp3.1\Geometric Mean.dll
+D:\NET centric code\Geometric Mean\Geometric Mean\bin\Debug\netcoreapp3.1\Geometric Mean.pdb
+D:\NET centric code\Geometric Mean\Geometric Mean\obj\Debug\netcoreapp3.1\Geometric Mean.csprojAssemblyReference.cache
+D:\NET centric code\Geometric Mean\Geometric Mean\obj\Debug\netcoreapp3.1\Geometric Mean.AssemblyInfoInputs.cache
+D:\NET centric code\Geometric Mean\Geometric Mean\obj\Debug\netcoreapp3.1\Geometric Mean.AssemblyInfo.cs
+D:\NET centric code\Geometric Mean\Geometric Mean\obj\Debug\netcoreapp3.1\Geometric Mean.csproj.CoreCompileInputs.cache
+D:\NET centric code\Geometric Mean\Geometric Mean\obj\Debug\netcoreapp3.1\Geometric Mean.dll
+D:\NET centric code\Geometric Mean\Geometric Mean\obj\Debug\netcoreapp3.1\Geometric Mean.pdb
+D:\NET centric code\Geometric Mean\Geometric Mean\obj\Debug\netcoreapp3.1\Geometric Mean.genruntimeconfig.cache

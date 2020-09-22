@@ -1,0 +1,12 @@
+D:\NET centric code\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.exe
+D:\NET centric code\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.deps.json
+D:\NET centric code\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.runtimeconfig.json
+D:\NET centric code\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.runtimeconfig.dev.json
+D:\NET centric code\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.dll
+D:\NET centric code\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.pdb
+D:\NET centric code\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.AssemblyInfoInputs.cache
+D:\NET centric code\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.AssemblyInfo.cs
+D:\NET centric code\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.csproj.CoreCompileInputs.cache
+D:\NET centric code\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.dll
+D:\NET centric code\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.pdb
+D:\NET centric code\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.genruntimeconfig.cache

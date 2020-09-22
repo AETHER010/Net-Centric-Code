@@ -1,0 +1,12 @@
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.exe
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.deps.json
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.runtimeconfig.json
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.runtimeconfig.dev.json
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.dll
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.pdb
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.AssemblyInfoInputs.cache
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.AssemblyInfo.cs
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.csproj.CoreCompileInputs.cache
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.dll
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.pdb
+D:\NET centric code\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.genruntimeconfig.cache

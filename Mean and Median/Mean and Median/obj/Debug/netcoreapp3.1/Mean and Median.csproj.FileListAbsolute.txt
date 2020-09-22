@@ -1,0 +1,12 @@
+D:\NET centric code\Mean and Median\Mean and Median\bin\Debug\netcoreapp3.1\Mean and Median.exe
+D:\NET centric code\Mean and Median\Mean and Median\bin\Debug\netcoreapp3.1\Mean and Median.deps.json
+D:\NET centric code\Mean and Median\Mean and Median\bin\Debug\netcoreapp3.1\Mean and Median.runtimeconfig.json
+D:\NET centric code\Mean and Median\Mean and Median\bin\Debug\netcoreapp3.1\Mean and Median.runtimeconfig.dev.json
+D:\NET centric code\Mean and Median\Mean and Median\bin\Debug\netcoreapp3.1\Mean and Median.dll
+D:\NET centric code\Mean and Median\Mean and Median\bin\Debug\netcoreapp3.1\Mean and Median.pdb
+D:\NET centric code\Mean and Median\Mean and Median\obj\Debug\netcoreapp3.1\Mean and Median.AssemblyInfoInputs.cache
+D:\NET centric code\Mean and Median\Mean and Median\obj\Debug\netcoreapp3.1\Mean and Median.AssemblyInfo.cs
+D:\NET centric code\Mean and Median\Mean and Median\obj\Debug\netcoreapp3.1\Mean and Median.csproj.CoreCompileInputs.cache
+D:\NET centric code\Mean and Median\Mean and Median\obj\Debug\netcoreapp3.1\Mean and Median.dll
+D:\NET centric code\Mean and Median\Mean and Median\obj\Debug\netcoreapp3.1\Mean and Median.pdb
+D:\NET centric code\Mean and Median\Mean and Median\obj\Debug\netcoreapp3.1\Mean and Median.genruntimeconfig.cache
