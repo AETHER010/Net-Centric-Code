@@ -1,0 +1,12 @@
+D:\NET centric code\Value of Sin\Value of Sin\bin\Debug\netcoreapp3.1\Value of Sin.exe
+D:\NET centric code\Value of Sin\Value of Sin\bin\Debug\netcoreapp3.1\Value of Sin.deps.json
+D:\NET centric code\Value of Sin\Value of Sin\bin\Debug\netcoreapp3.1\Value of Sin.runtimeconfig.json
+D:\NET centric code\Value of Sin\Value of Sin\bin\Debug\netcoreapp3.1\Value of Sin.runtimeconfig.dev.json
+D:\NET centric code\Value of Sin\Value of Sin\bin\Debug\netcoreapp3.1\Value of Sin.dll
+D:\NET centric code\Value of Sin\Value of Sin\bin\Debug\netcoreapp3.1\Value of Sin.pdb
+D:\NET centric code\Value of Sin\Value of Sin\obj\Debug\netcoreapp3.1\Value of Sin.AssemblyInfoInputs.cache
+D:\NET centric code\Value of Sin\Value of Sin\obj\Debug\netcoreapp3.1\Value of Sin.AssemblyInfo.cs
+D:\NET centric code\Value of Sin\Value of Sin\obj\Debug\netcoreapp3.1\Value of Sin.csproj.CoreCompileInputs.cache
+D:\NET centric code\Value of Sin\Value of Sin\obj\Debug\netcoreapp3.1\Value of Sin.dll
+D:\NET centric code\Value of Sin\Value of Sin\obj\Debug\netcoreapp3.1\Value of Sin.pdb
+D:\NET centric code\Value of Sin\Value of Sin\obj\Debug\netcoreapp3.1\Value of Sin.genruntimeconfig.cache
